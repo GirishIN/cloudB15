@@ -1,1 +1,2 @@
 Ec2--Elastic compute cloud
+S3--Simple storage service
